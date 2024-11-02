@@ -17,7 +17,7 @@ Expanding my skills in machine learning and cloud data platforms like AWS and Az
 
 📈 Projects
 
-I’ve worked on several projects showcasing everything from data cleaning and wrangling to building interactive dashboards. Check out my repositories below to see examples of my work in:
+I’ve worked on several projects showcasing everything from data cleaning and wrangling to building interactive dashboards. Check out my pinned repositories below to see examples of my work in:
 
  • Exploratory Data Analysis (EDA)
  • Predictive Modeling
