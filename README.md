@@ -27,4 +27,4 @@ I’ve worked on several projects showcasing everything from data cleaning and w
 
 I love connecting with fellow data enthusiasts! Whether you’re looking to collaborate on a project or just want to chat about data, feel free to reach out.
 
-Make sure to add links to any specific projects or repositories that highlight your skills. This introduction emphasizes your experience while welcoming opportunities to collaborate and connect.
+
