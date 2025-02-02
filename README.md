@@ -5,9 +5,9 @@ I’m a data analyst with a passion for uncovering insights from data and turnin
 
 💻 Technical Skills
 
- • Programming: Python, SQL, 
- • Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
- • Databases: SQL, MYSQL
+ • Programming: Python, MYSQL, 
+ • Data Visualization: Excel, Power BI, Matplotlib, Seaborn
+ • Databases:  MYSQL
  • Tools & Libraries: Pandas, NumPy, Scikit-learn
  • Other: Excel, Google Analytics
 
