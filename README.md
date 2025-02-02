@@ -11,7 +11,7 @@ I’m a data analyst with a passion for uncovering insights from data and turnin
  
  • Databases:  MYSQL
  
- • Tools & Libraries: Pandas, NumPy, Scikit-learn,Matplotlib, Seaborn
+ • Tools & Libraries: Pandas, NumPy,Matplotlib, Seaborn
  
  • Other: Excel, Google Analytics
 
