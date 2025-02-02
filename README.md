@@ -7,11 +7,11 @@ I’m a data analyst with a passion for uncovering insights from data and turnin
 
  • Programming: Python, MYSQL, 
  
- • Data Visualization: Excel, Power BI, Matplotlib, Seaborn
+ • Data Visualization: Excel, Power BI 
  
  • Databases:  MYSQL
  
- • Tools & Libraries: Pandas, NumPy, Scikit-learn
+ • Tools & Libraries: Pandas, NumPy, Scikit-learn,Matplotlib, Seaborn
  
  • Other: Excel, Google Analytics
 
