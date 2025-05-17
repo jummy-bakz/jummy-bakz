@@ -31,4 +31,7 @@ I’ve worked on several projects showcasing everything from data cleaning and w
 
 I love connecting with fellow data enthusiasts! Whether you’re looking to collaborate on a project or just want to chat about data, feel free to reach out.
 
+Email: mariamlanrwaju@gmail.com
+Phone: +234 8144 591 196
+
 
